@@ -1,0 +1,203 @@
+<%--
+  Created by IntelliJ IDEA.
+  User: brave
+  Date: 2020/12/14
+  Time: 12:01
+  To change this template use File | Settings | File Templates.
+--%>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Ilovemath</title>
+    <style>
+        *{
+            margin:0px;
+            border:0px;
+        }
+        .mainBody{
+            width:100%;
+
+            display:flex;
+            flex-direction:column;
+            align-items:center;
+            justify-content:center;
+            background-image:url('image/backgroudimg/mypage.jpg');
+            background-repeat:no-repeat;
+            background-size:100% 100%;
+            background-attachment:fixed;
+        }
+        .mainBodyMask{
+            width:100%;
+            height:1020px;
+            background-color:grey;
+            background:rgba(0,0,0,0);
+            display:flex;
+            flex-direction:column;
+            align-items:center;
+            justify-content:center;
+        }
+        .bodyTitle{
+            background-color:grey;
+            background:rgba(0,0,0,0.5);
+            color:white;
+            font-size:100px;
+            font-weight:10px;
+            width:600px;
+            height:200px;
+            line-height:200px;
+            text-align:center
+        }
+        .bodyTitle:hover{
+            background:rgba(0,0,0,1);
+            color:plum;
+        }
+        .funcList{
+            back-ground-color:green;
+            display:flex;
+            flex-direction:row;
+            align-items:center;
+            justify-content:space-around;
+        }
+        .funcItem{
+            width:200px;
+            height:200px;
+            margin:0px;
+            background-color:purple;
+            display:inline;
+            align-items:center;
+            display:flex;
+            flex-direction:column;
+            justify-content:center;
+            color:white;
+            background:rgba(0,0,0,0.5);
+        }
+        .subFuncItem{
+            height:50px;
+        }
+        .subFuncItem:hover{
+            cursor:pointer;
+            color:yellow;
+        }
+        .funcItem:hover{
+            background:rgba(0,0,0,1);
+        }
+        a{
+            color:#fcfcfc;
+            text-decoration:none;
+        }
+        a:hover{
+            color:purple;
+            cursor:pointer;
+            text-decoration:none;
+        }
+        a:active{
+            color:yellow;
+        }
+        a:visited{
+            color:purple;
+            text-decoration:none;
+        }
+        a::before{
+            content: "{";
+            color:purple;
+            margin-right:0;
+            opacity:0;
+            transition:margin-right 0.3s, opacity 0.2s;
+        }
+        a::after{
+            content: "}";
+            color:purple;
+            margin-left:0;
+            opacity: 0;
+            transition:margin-left 0.3s, opacity 0.2s;
+        }
+        a:hover::before{
+            opacity: 1;
+            margin-right:2px;
+        }
+        a:hover::after{
+            opacity:1;
+            marigin-left:20px;
+        }
+    </style>
+
+</head>
+<body>
+<%--<h1>欢迎${sessionScope.loginUser.userName}登录</h1>--%>
+<div class="mainBody">
+    <div class="mainBodyMask">
+        <p class="bodyTitle" onclick="window.open('http://localhost:8080/select.jsp','_self')">口算题卡</p>
+        <div class="funcList">
+            <div id='personalInfo' class="funcItem">
+                <div class='subFuncItem' onclick="window.open('http://localhost:8080/personalInformation.jsp','_self')">个人信息</div>
+                <div class='subFuncItem personalInfoHid' id="'personalNick">
+                    用户名
+                </div>
+                <div class='subFuncItem personalInfoHid' id="personalTele">
+                    手机号
+                </div>
+                <div class='subFuncItem personalInfoHid' id="personalSet">
+                    <a href="./profile.html">修改</a>
+                </div>
+                <div class="subFuncItem" id="pleaseVerifyId">
+                    <a href="./auth.html">请实名认证</a>
+                </div>
+            </div>
+            <div class="funcItem" >
+                <div class="subFuncItem" onclick="window.open('http://localhost:8080/rank','_self')">排名情况</div>
+            </div>
+            <div class="funcItem">
+                <div class="subFuncItem">错题分析</div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="js/jquery.min.js"></script>
+<script>
+    $(document).ready(function(){
+        /*
+          logit of personalInfo
+        */
+        console.log(window.screen.height);
+        $('.mainBodyMask').css('height',window.screen.height);
+
+        // init
+        var idVerified = false;
+        var personalInfoHid = true;
+        var verifyIdHid = true;
+        $('.personalInfoHid').slideUp();
+        $('#pleaseVerifyId').slideUp();
+
+        // mouseenter personalInfo
+        $('#personalInfo').mouseenter(function(e){
+            if(personalInfoHid && idVerified){
+                $('.personalInfoHid').slideDown(300,'swing',function(){
+                    personalInfoHid = false;
+                });
+            }else if(verifyIdHid && !idVerified){
+                $('#pleaseVerifyId').slideDown(300, 'swing', function(){
+                    verifyIdHid = false;
+                });
+            }
+        })
+
+        // mouserleave personalInfo
+        $('#personalInfo').mouseleave(function(e){
+            if(!personalInfoHid && idVerified){
+                $('.personalInfoHid').slideUp(300,'swing',function(){
+                    personalInfoHid = true;
+                });
+            }else if(!verifyIdHid && !idVerified){
+                $('#pleaseVerifyId').slideUp(300, 'swing', function(){
+                    verifyIdHid  = true;
+                });
+            }
+        })
+    })
+</script>
+</body>
+</html>

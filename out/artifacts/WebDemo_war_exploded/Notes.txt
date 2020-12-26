@@ -1,0 +1,11 @@
+
+MVC开发模式
+    将程序分层的思想
+    M：Model         业务数据（service，repository，entity）
+    V：View          视图（jsp，html，app客户端）
+    C：Controller    控制（Servlet，Handler，Action）
+        请求进入Java Web，Controller接受该请求，进行业务逻辑（service）处理，
+        数据库交互(repository)
+        最终将处理的结果返回给用户（View+Model）
+
+
