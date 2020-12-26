@@ -1,0 +1,680 @@
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+ERROR __init__.py:98 Error: Directory migrations already exists and is not empty
+ERROR __init__.py:98 Error: Directory migrations already exists and is not empty
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113 127.0.0.1 - - [13/Dec/2020 21:16:14] "[33mGET / HTTP/1.1[0m" 404 -
+ERROR demo.py:14 error msg
+WARNING demo.py:15 warn msg
+INFO demo.py:16 info msg
+DEBUG demo.py:17 debug msg
+INFO _internal.py:113 127.0.0.1 - - [13/Dec/2020 21:19:15] "[37mGET /api/v1.0/index HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [14/Dec/2020 16:47:59] "[33mGET /static/html/index.heml HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [15/Dec/2020 22:28:30] "[37mGET /static/html/login.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [15/Dec/2020 22:28:30] "[33mGET /static/api/v1.0/index HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113 127.0.0.1 - - [15/Dec/2020 22:29:30] "[33mGET / HTTP/1.1[0m" 404 -
+ERROR demo.py:14 error msg
+WARNING demo.py:15 warn msg
+INFO demo.py:16 info msg
+DEBUG demo.py:17 debug msg
+INFO _internal.py:113 127.0.0.1 - - [15/Dec/2020 22:29:30] "[37mGET /api/v1.0/index HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/软件工程/ihome/api_1_0/demo.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113 127.0.0.1 - - [15/Dec/2020 22:32:30] "[33mGET /index HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [15/Dec/2020 22:32:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/软件工程/ihome/api_1_0/demo.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113 127.0.0.1 - - [15/Dec/2020 22:33:24] "[33mGET /index HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113 127.0.0.1 - - [15/Dec/2020 22:34:30] "[33mGET / HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [15/Dec/2020 22:34:30] "[33mGET / HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [15/Dec/2020 22:34:30] "[33mGET / HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [15/Dec/2020 22:35:30] "[33mGET / HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/软件工程/ihome/api_1_0/demo.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113 127.0.0.1 - - [15/Dec/2020 22:37:30] "[33mGET / HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:01] "[37mGET /static/html/login.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:01] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:01] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:01] "[33mGET /static/css/reset.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:01] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:01] "[37mGET /static/css/login.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:01] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:01] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:01] "[37mGET /static/js/login.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:01] "[37mGET /static/images/login.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:02] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:02] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:05] "[37mGET /static/html/register.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:05] "[33mGET /static/css/reset.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:05] "[37mGET /static/css/register.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:05] "[37mGET /static/js/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:05] "[37mGET /static/images/register.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:05] "[33mGET /api/v1.0/image_codes/d175e3c1-0dd3-4f90-a337-9e1e1dd08693 HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 08:39:07] "[33mGET /static/css/reset.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/软件工程/ihome/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/软件工程/ihome/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:23:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:23:36] "[33mGET /plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:23:36] "[33mGET /plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:23:36] "[33mGET /css/reset.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:23:36] "[33mGET /css/main.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:23:36] "[33mGET /css/login.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:23:36] "[33mGET /js/jquery.min.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:23:36] "[33mGET /plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:23:36] "[33mGET /js/login.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:23:36] "[33mGET /images/login.jpg HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:23:37] "[33mGET /plugins/font-awesome/fonts/fontawesome-webfont.ttf HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:24:13] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:26] "[37mGET /static/html/index.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:26] "[33mGET /plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:26] "[33mGET /plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:26] "[33mGET /css/reset.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:26] "[33mGET /css/main.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:26] "[33mGET /css/login.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:26] "[33mGET /js/jquery.min.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:26] "[33mGET /plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:26] "[33mGET /js/login.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:26] "[33mGET /images/login.jpg HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:26] "[33mGET /plugins/font-awesome/fonts/fontawesome-webfont.ttf HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:37] "[37mGET /login.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:37] "[33mGET /plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:37] "[33mGET /plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:37] "[33mGET /css/reset.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:37] "[33mGET /css/main.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:37] "[33mGET /css/login.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:37] "[33mGET /js/jquery.min.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:37] "[33mGET /plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:37] "[33mGET /js/login.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:37] "[33mGET /images/login.jpg HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:29:37] "[33mGET /plugins/font-awesome/fonts/fontawesome-webfont.ttf HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:30:57] "[37mGET /login.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:30:57] "[33mGET /plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:30:57] "[33mGET /plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:30:57] "[33mGET /css/reset.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:30:57] "[33mGET /css/main.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:30:57] "[33mGET /css/login.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:30:57] "[33mGET /js/jquery.min.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:30:57] "[33mGET /plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:30:57] "[33mGET /js/login.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:30:57] "[33mGET /plugins/font-awesome/fonts/fontawesome-webfont.ttf HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:06] "[33mGET /plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:06] "[33mGET /plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:06] "[33mGET /css/reset.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:06] "[33mGET /css/main.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:06] "[33mGET /css/login.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:06] "[33mGET /js/jquery.min.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:06] "[33mGET /plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:06] "[33mGET /js/login.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:06] "[33mGET /images/login.jpg HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:06] "[33mGET /plugins/font-awesome/fonts/fontawesome-webfont.ttf HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:09] "[33mGET /plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:09] "[33mGET /plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:09] "[33mGET /css/reset.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:09] "[33mGET /css/main.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:09] "[33mGET /css/login.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:09] "[33mGET /js/jquery.min.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:09] "[33mGET /plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:09] "[33mGET /js/login.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:09] "[33mGET /plugins/font-awesome/fonts/fontawesome-webfont.ttf HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:11] "[36mGET / HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:11] "[33mGET /plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:11] "[33mGET /plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:11] "[33mGET /css/reset.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:11] "[33mGET /css/main.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:11] "[33mGET /css/login.css HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:11] "[33mGET /js/jquery.min.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:11] "[33mGET /plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:11] "[33mGET /js/login.js HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:31:11] "[33mGET /plugins/font-awesome/fonts/fontawesome-webfont.ttf HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 09:34:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/软件工程/ihome/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/软件工程/ihome/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/软件工程/ihome/web_html.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:25] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:25] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:25] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:25] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:25] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:25] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:28] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:28] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:28] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:28] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:28] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:35] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:35] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:35] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:35] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:35] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:36] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:48] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:48] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:48] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:49] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:07:49] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:11:32] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:11:32] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:11:32] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:11:32] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:11:32] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:11:32] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/软件工程/ihome/web_html.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:11:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:11:50] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:11:50] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:11:50] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:11:50] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:11:50] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/软件工程/ihome/web_html.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/软件工程/ihome/web_html.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/软件工程/ihome/web_html.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/软件工程/ihome/web_html.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:12:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:12:33] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:12:33] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:12:33] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:12:33] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:12:33] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:12:50] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:12:50] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:12:50] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:12:50] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:12:50] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:12:50] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/软件工程/ihome/web_html.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 159-918-727
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 10:14:37] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:36:54] "[36mGET /login.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:36:54] "[37mGET /static/js/login.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:37:39] "[33mGET /api/v1.0/image_codes/123 HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:37:56] "[33mGET /image_codes/123 HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:38:05] "[33mGET /api/v1.0/session HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:38:05] "[33mGET /api/v1.0/houses/index HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:38:05] "[33mGET /api/v1.0/areas HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:38:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:38:57] "[36mGET / HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:39:01] "[36mGET / HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:39:11] "[33mGET /api/v1.0/images/123 HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:39:26] "[33mGET /api/v1.0/images_codes/123 HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:39:39] "[33mGET /images_codes/123 HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:52:12] "[33mGET /images_codes/123 HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:52:13] "[33mGET /images_codes/123 HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:52:52] "[33mGET /api/v1.0/images_codes/123 HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:53:43] "[33mGET /api/v1.0/images_code/123 HTTP/1.1[0m" 404 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:55:07] "[33mGET /api/v1.0/image_codes/ HTTP/1.1[0m" 404 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:55:10] "[35m[1mGET /api/v1.0/image_codes/123 HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:55:10] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:55:10] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:55:10] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:55:10] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:55:10] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:55:10] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/utils/captcha/captcha.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:57:00] "[35m[1mGET /api/v1.0/image_codes/123 HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:57:00] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:57:00] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:57:00] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:57:00] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:57:00] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:57:00] "[37mGET /api/v1.0/image_codes/123?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+ERROR demo.py:16 error msg
+WARNING demo.py:17 warn msg
+INFO demo.py:18 info msg
+DEBUG demo.py:19 debug msg
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:57:56] "[37mGET /api/v1.0/ HTTP/1.1[0m" 200 -
+ERROR demo.py:16 error msg
+WARNING demo.py:17 warn msg
+INFO demo.py:18 info msg
+DEBUG demo.py:19 debug msg
+INFO _internal.py:113 127.0.0.1 - - [16/Dec/2020 23:59:46] "[37mGET /api/v1.0/ HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 00:00:55] "[37mGET /api/v1.0/image_codes/123 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 00:22:59] "[37mGET /api/v1.0/image_codes/123 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 00:28:55] "[37mGET /static/js/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 00:28:55] "[37mGET /api/v1.0/image_codes/f78ab994-3a58-415a-9b64-b70281619936 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 00:35:34] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 00:35:34] "[37mGET /api/v1.0/image_codes/944cca78-c9b4-406d-b45b-165773bcd632 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:28:11] "[37mGET /register.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:28:11] "[36mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:28:11] "[36mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:28:11] "[36mGET /static/css/reset.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:28:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:28:11] "[36mGET /static/css/register.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:28:11] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:28:11] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:28:11] "[37mGET /static/js/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:28:11] "[37mGET /static/images/register.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:28:11] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:28:11] "[37mGET /api/v1.0/image_codes/43ad8638-bf2d-48ff-82e3-14568cff8480 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:30:17] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=UoWG&image_code_id=43ad8638-bf2d-48ff-82e3-14568cff8480 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:30:22] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=UOWG&image_code_id=43ad8638-bf2d-48ff-82e3-14568cff8480 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:30:28] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:30:28] "[37mGET /api/v1.0/image_codes/e4813ec8-2ab4-4a6a-8e11-d0fe1f02ae82 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:30:59] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=FKW3&image_code_id=e4813ec8-2ab4-4a6a-8e11-d0fe1f02ae82 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:31:00] "[37mGET /api/v1.0/image_codes/a713456f-3a14-4511-ba15-eef22cc4d691 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:41:32] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 14:41:32] "[37mGET /api/v1.0/image_codes/088d0872-12f8-4016-8e69-23ed06f4bd7a HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 15:10:07] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=9ASW&image_code_id=088d0872-12f8-4016-8e69-23ed06f4bd7a HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 15:48:13] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 15:48:13] "[37mGET /api/v1.0/image_codes/61c83488-b3de-451e-9ce5-f5fd07f6fec1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 15:48:25] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=YILC&image_code_id=61c83488-b3de-451e-9ce5-f5fd07f6fec1 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 15:48:31] "[37mGET /api/v1.0/image_codes/953d4eef-3aff-4d99-9f9a-6d19a67ece11 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 15:48:39] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=DPYM&image_code_id=953d4eef-3aff-4d99-9f9a-6d19a67ece11 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 15:51:09] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 15:51:09] "[37mGET /api/v1.0/image_codes/f25da2e3-6ce5-4eb0-a8d0-fb2c42e82fc7 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 15:51:37] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=9ZBD&image_code_id=f25da2e3-6ce5-4eb0-a8d0-fb2c42e82fc7 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:08:49] "[36mGET /register.html HTTP/1.1[0m" 304 -
+ERROR verify_code.py:38 expire() takes exactly 3 arguments (2 given)
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:08:49] "[37mGET /api/v1.0/image_codes/0d96edd6-cf50-4071-8585-8b64062e6830 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:08:50] "[36mGET /register.html HTTP/1.1[0m" 304 -
+ERROR verify_code.py:38 expire() takes exactly 3 arguments (2 given)
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:08:50] "[37mGET /api/v1.0/image_codes/757b9b74-4092-4bcb-975c-3f1c87ea55ae HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:09:10] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:09:10] "[37mGET /api/v1.0/image_codes/26114aa0-7bf6-4dd2-bf72-42a426196757 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:15:20] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:15:20] "[37mGET /api/v1.0/image_codes/d702601f-d3b9-44c9-8db7-8d296dffcacf HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:15:43] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=GBDK&image_code_id=d702601f-d3b9-44c9-8db7-8d296dffcacf HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:17:07] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:17:07] "[37mGET /api/v1.0/image_codes/e06a6845-e588-4f02-adef-43f97367888f HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:17:28] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=+VV5M&image_code_id=e06a6845-e588-4f02-adef-43f97367888f HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:27:42] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:27:42] "[37mGET /api/v1.0/image_codes/c573e068-2901-4870-81f3-4fe1503633b3 HTTP/1.1[0m" 200 -
+ERROR verify_code.py:98 No module named MySQLdb
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:27:48] "[35m[1mGET /api/v1.0/sms_codes/18203295777?image_code=UZEW&image_code_id=c573e068-2901-4870-81f3-4fe1503633b3 HTTP/1.1[0m" 500 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:33:35] "[37mGET /register.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:33:35] "[37mGET /api/v1.0/image_codes/07d63328-772c-41aa-994f-5d422c57790d HTTP/1.1[0m" 200 -
+ERROR verify_code.py:98 No module named MySQLdb
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:33:43] "[35m[1mGET /api/v1.0/sms_codes/18203295777?image_code=CNDY&image_code_id=07d63328-772c-41aa-994f-5d422c57790d HTTP/1.1[0m" 500 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:34:01] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:40:07] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=CNDY&image_code_id=07d63328-772c-41aa-994f-5d422c57790d HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:42:08] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:42:08] "[37mGET /api/v1.0/image_codes/f0cb862e-ca00-4d60-b94c-53f0675c26f6 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:42:08] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+ERROR verify_code.py:98 No module named MySQLdb
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:42:16] "[35m[1mGET /api/v1.0/sms_codes/18203295777?image_code=CKWJ&image_code_id=f0cb862e-ca00-4d60-b94c-53f0675c26f6 HTTP/1.1[0m" 500 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:43:13] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:43:13] "[37mGET /api/v1.0/image_codes/3c948905-030e-4a2d-8475-e2e023064328 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:43:13] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+ERROR verify_code.py:99 No module named MySQLdb
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:43:23] "[35m[1mGET /api/v1.0/sms_codes/18203295777?image_code=LTOY&image_code_id=3c948905-030e-4a2d-8475-e2e023064328 HTTP/1.1[0m" 500 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:47:00] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:47:00] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:47:00] "[37mGET /api/v1.0/image_codes/5a40d601-c681-44ba-89ab-f44d3d39e4d7 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:47:07] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=FJST&image_code_id=5a40d601-c681-44ba-89ab-f44d3d39e4d7 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:47:15] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=FJS7&image_code_id=5a40d601-c681-44ba-89ab-f44d3d39e4d7 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:47:17] "[37mGET /api/v1.0/image_codes/aa7f1ba5-9578-495b-9772-0c976acb7615 HTTP/1.1[0m" 200 -
+ERROR verify_code.py:98 No module named MySQLdb
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:47:25] "[35m[1mGET /api/v1.0/sms_codes/18203295777?image_code=QGTD&image_code_id=aa7f1ba5-9578-495b-9772-0c976acb7615 HTTP/1.1[0m" 500 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/verify_code.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:57:29] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:57:29] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:57:29] "[37mGET /api/v1.0/image_codes/db6f9d77-9aec-4387-a4c9-d94f43c8f246 HTTP/1.1[0m" 200 -
+ERROR verify_code.py:98 No module named MySQLdb
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:57:37] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=JHWF&image_code_id=db6f9d77-9aec-4387-a4c9-d94f43c8f246 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:57:47] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=JHWF&image_code_id=db6f9d77-9aec-4387-a4c9-d94f43c8f246 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:59:25] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:59:25] "[37mGET /api/v1.0/image_codes/5f1d2ef4-529e-49a1-bb8a-cb6b42097f0c HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:59:25] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:59:33] "[37mGET /api/v1.0/image_codes/88b0b264-bdd0-4baa-b18f-0fd72cc0d3ca HTTP/1.1[0m" 200 -
+ERROR verify_code.py:98 No module named MySQLdb
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 16:59:40] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=FHPO&image_code_id=88b0b264-bdd0-4baa-b18f-0fd72cc0d3ca HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 17:00:12] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 17:00:12] "[37mGET /api/v1.0/image_codes/5e009c80-5e33-4065-b4a5-e83247431175 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 17:00:12] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 17:00:19] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=TUMG&image_code_id=5e009c80-5e33-4065-b4a5-e83247431175 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 17:00:33] "[37mGET /api/v1.0/image_codes/6e466253-69e5-43b3-a0f3-3347634bbe35 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 17:00:39] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=6UTY&image_code_id=6e466253-69e5-43b3-a0f3-3347634bbe35 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 17:00:49] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=6UIY&image_code_id=6e466253-69e5-43b3-a0f3-3347634bbe35 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 17:00:53] "[37mGET /api/v1.0/image_codes/4dcdd658-606a-42e8-a2fe-8a051ceed88a HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 17:00:56] "[37mGET /api/v1.0/image_codes/4ff7f862-3e9f-44e1-91e9-52c66f2029ce HTTP/1.1[0m" 200 -
+ERROR verify_code.py:98 No module named MySQLdb
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 17:01:03] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=QVVW&image_code_id=4ff7f862-3e9f-44e1-91e9-52c66f2029ce HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/__init__.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Detected change in '/Users/cuixingqi/Desktop/imath/ihome/api_1_0/passport.py', reloading
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 19:29:55] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 19:29:55] "[37mGET /api/v1.0/image_codes/dda7bda1-e001-4d9b-9425-5eed3b246490 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 19:34:02] "[37mGET /api/v1.0/image_codes/7273d3aa-8209-46f8-801f-2bd55f02372b HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 19:34:05] "[37mGET /api/v1.0/image_codes/cf3e7e30-0ae4-4968-8ced-5bf8b4ddc69c HTTP/1.1[0m" 200 -
+ERROR verify_code.py:98 No module named MySQLdb
+INFO _internal.py:113 127.0.0.1 - - [17/Dec/2020 19:34:14] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=J9T4&image_code_id=cf3e7e30-0ae4-4968-8ced-5bf8b4ddc69c HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 14:03:09] "[36mGET /register.html HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 14:03:09] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 14:03:09] "[36mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 14:03:09] "[36mGET /static/css/reset.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 14:03:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 14:03:09] "[36mGET /static/css/register.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 14:03:09] "[36mGET /static/js/jquery.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 14:03:09] "[36mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 14:03:09] "[36mGET /static/images/register.jpg HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 14:03:09] "[37mGET /static/js/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 14:03:09] "[36mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 14:03:09] "[37mGET /api/v1.0/image_codes/6fff6df7-f359-47f6-bd53-2845920be484 HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:07:20] "[36mGET / HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:07:20] "[36mGET /static/css/login.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:07:20] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:07:20] "[37mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:07:20] "[37mGET /static/images/login.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:07:20] "[36mGET /static/js/login.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:07:20] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:07:20] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.ttf HTTP/1.1[0m" 200 -
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113  * Restarting with stat
+WARNING _internal.py:113  * Debugger is active!
+INFO _internal.py:113  * Debugger PIN: 313-034-102
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:11:18] "[36mGET / HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:11:21] "[37mGET /static/images/register.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:11:21] "[37mGET /api/v1.0/image_codes/900a0a95-6135-4122-a58b-fd2f81341a59 HTTP/1.1[0m" 200 -
+ERROR verify_code.py:98 No module named MySQLdb
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:11:39] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=SLFV&image_code_id=900a0a95-6135-4122-a58b-fd2f81341a59 HTTP/1.1[0m" 200 -
+INFO csrf.py:258 The CSRF session token is missing.
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:14:47] "[31m[1mPOST /api/v1.0/users HTTP/1.1[0m" 400 -
+INFO csrf.py:258 The CSRF session token is missing.
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:14:49] "[31m[1mPOST /api/v1.0/users HTTP/1.1[0m" 400 -
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:14:51] "[36mGET /login.html HTTP/1.1[0m" 304 -
+INFO csrf.py:258 The CSRF session token is missing.
+INFO _internal.py:113 127.0.0.1 - - [18/Dec/2020 15:14:57] "[31m[1mPOST /api/v1.0/sessions HTTP/1.1[0m" 400 -
+INFO _internal.py:113 127.0.0.1 - - [21/Dec/2020 19:02:21] "[37mGET / HTTP/1.1[0m" 200 -
+ERROR _internal.py:113 Error on request:
+Traceback (most recent call last):
+  File "/Users/cuixingqi/venv/lib/python2.7/site-packages/werkzeug/serving.py", line 323, in run_wsgi
+    execute(self.server.app)
+  File "/Users/cuixingqi/venv/lib/python2.7/site-packages/werkzeug/serving.py", line 315, in execute
+    write(data)
+  File "/Users/cuixingqi/venv/lib/python2.7/site-packages/werkzeug/serving.py", line 276, in write
+    self.send_header(key, value)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/BaseHTTPServer.py", line 412, in send_header
+    self.wfile.write("%s: %s\r\n" % (keyword, value))
+IOError: [Errno 32] Broken pipe
+INFO _internal.py:113 127.0.0.1 - - [21/Dec/2020 19:21:31] "[36mGET / HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [21/Dec/2020 19:21:31] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [21/Dec/2020 19:21:31] "[36mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [21/Dec/2020 19:21:31] "[36mGET /static/css/reset.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [21/Dec/2020 19:21:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [21/Dec/2020 19:21:31] "[36mGET /static/css/login.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [21/Dec/2020 19:21:31] "[37mGET /static/images/login.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [21/Dec/2020 19:21:31] "[37mGET /static/js/jquery.min.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [21/Dec/2020 19:21:31] "[36mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [21/Dec/2020 19:21:31] "[36mGET /static/js/login.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:20:07] "[37mGET /register.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:20:07] "[36mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:20:07] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:20:07] "[37mGET /static/css/register.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:20:07] "[37mGET /static/css/reset.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:20:07] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:20:07] "[36mGET /static/js/jquery.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:20:07] "[36mGET /static/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:20:07] "[37mGET /static/js/register.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:20:07] "[37mGET /static/images/register.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:20:08] "[36mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1[0m" 304 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:20:08] "[37mGET /api/v1.0/image_codes/456397db-4710-454b-8362-43f148790963 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:20:33] "[37mGET /api/v1.0/sms_codes/18203295777?image_code=7940&image_code_id=456397db-4710-454b-8362-43f148790963 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:20:46] "[37mGET /api/v1.0/image_codes/ae85f4e6-7bbb-48de-a71c-bf1d60e23678 HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:21:40] "[37mGET /login.html HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:21:40] "[37mGET /static/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:21:40] "[37mGET /static/plugins/font-awesome/css/font-awesome.min.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:21:40] "[37mGET /static/css/login.css HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:21:40] "[37mGET /static/js/login.js HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:21:40] "[37mGET /static/images/login.jpg HTTP/1.1[0m" 200 -
+INFO _internal.py:113 127.0.0.1 - - [25/Dec/2020 20:21:40] "[37mGET /static/plugins/font-awesome/fonts/fontawesome-webfont.ttf HTTP/1.1[0m" 200 -
